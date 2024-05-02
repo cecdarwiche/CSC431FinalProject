@@ -3,6 +3,5 @@ This repository contains the project assets and documentation for Wanderlust, a 
 
 This repository includes the following folders:
   Presentations: Contains presentation materials related to Wanderlust, including slideshows and visual aids used during project meetings and presentations.
-  Docs: Contains the project proposal, Software Requirements Specification (SRS), and Software Architecture Specification (SAS) documents outlining the scope,   
-  requirements, and architecture of the Wanderlust application.
+  Docs: Contains the project proposal, Software Requirements Specification (SRS), and Software Architecture Specification (SAS) documents outlining the scope, requirements, and architecture of the Wanderlust application.
   Mockup: Contains mockup designs and wireframes illustrating the user interface and user experience (UI/UX) of the Wanderlust application.
