@@ -1,4 +1,4 @@
-# CSC431FinalProject
+# Wanderlust Travel Recommender - CSC431FinalProject
 This repository contains the project assets and documentation for Wanderlust, a web and mobile application designed to provide personalized travel recommendations and itinerary planning services to users. Wanderlust is a comprehensive web and mobile application that aims to simplify travel planning and exploration. Through intuitive interfaces and advanced algorithms, Wanderlust offers personalized travel recommendations. Whether users are seeking inspiration for their next adventure or planning a detailed itinerary, Wanderlust empowers travelers to discover new destinations and create memorable experiences with ease.
 
 This repository includes the following folders:
